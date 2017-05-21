@@ -1,0 +1,109 @@
+body{
+	background-image: url("file:///Users/myles/Desktop/Week-4-Game/assets/images/try5.jpg");
+	background-size: 100%;
+}
+
+
+h1{
+	text-align: center;
+	color: #7FDBFF;
+}
+
+
+#instructions{
+	color: orange; 
+	font-weight: 700; 
+	border-radius: 4px;
+	padding: 5px;
+	text-align: center;
+	background-color: black; 
+	opacity: 0.79;
+}
+
+p{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", 
+	Geneva, Verdana, sans-serif;
+	font-size: 16px;
+	line-height: 150%;
+	font-weight: 900;
+}
+
+h2{
+	font-family:'Bungee Inline', cursive;
+	font-size: 35px; 
+	text-align: center;
+
+}
+
+
+#randomNumber {
+	width: 25%; 
+	margin: auto;
+	background-color: #7FDBFF;
+	padding: 20px;
+	text-align: center;
+	border-radius: 8px;
+	margin-top: 25px; 
+	font-size: 40px;
+
+
+
+}
+
+.winLoss {
+	color: black;
+	font-size: 36px;
+	text-align: center;
+
+}
+
+#Ws{
+	font-family:'Bungee Inline', cursive;
+	float: left;
+	width: 50%;
+	color: green;
+
+
+}
+
+#Ls{
+	font-family:'Bungee Inline', cursive;
+	float: left;
+	width: 50%;
+	color: red;
+}
+
+#crystalDiv{
+	width: 100%;
+
+
+}
+
+.crystals {
+	clear: both;
+	width: 220px; 
+	height: 160px;
+	border-radius: 45%;
+	margin: 3%;
+}
+
+h3{
+	font-size: 30px; 
+	text-align: center;
+	color: white;
+}
+
+#totalScore {
+	color: white; 
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 25px;
+	background: black;
+	width: 140px;
+	border-radius: 65%;
+	margin: auto;
+	
+}
+
+
+

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Crystal Collecter</title>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-2.2.0.js"></script>
+	<script type="text/javascript" src="file:///Users/myles/Desktop/Week-4-Game/assets/javascript/game.js"></script>
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css"> 
+	<link href="https://cdn.jsdelivr.net/sweetalert2/6.6.1/sweetalert2.css" rel="stylesheet"/>
+	<script src="https://cdn.jsdelivr.net/sweetalert2/6.6.1/sweetalert2.js"></script>
+	<link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
+</head>
+<body>
+	<h1>Crystal Collector</h1>
+	
+	<div id="instructions">
+		<p>You will be given a random number at the start of the game</p>
+		<p>There are 4 abstract crystals below. By clicking on the crystal you will add a specific amount of points to your total score. </p>
+		<p>You win the game by matching your total score to a random number</p>
+		<p>The value of each crystal is hidden from you until you click on it.</p>
+		<p>Each time when the game starts, the game will change the value of each crystal.</p>
+	</div>
+		<h2>-RANDOM NUMBER-</h2>
+		<div id="randomNumber">RandomNumber</div>
+
+		<div class="winLoss" id="Ws">WINS: 0</div>
+
+		<div class="winLoss" id="Ls">LOSSES: 0</div>
+	</div>
+
+	
+	<h3>TOTAL SCORE</h3>
+
+	<div id="totalScore">0</div>
+
+
+
+	<div id="crystalDiv">
+
+	<img class="crystals" id="roundCrystal" data-crystalvalue="hiddenVal" src="file:///Users/myles/Desktop/Week-4-Game/assets/images/try.jpg">
+	
+	<img class="crystals" id="funCrystal" data-crystalvalue="hiddenVal" src="file:///Users/myles/Desktop/Week-4-Game/assets/images/try2.jpg">
+	
+	<img class="crystals" id="diamondCrystal" data-crystalvalue="hiddenVal" src="file:///Users/myles/Desktop/Week-4-Game/assets/images/try3.jpg">
+	
+	<img class="crystals" id="hexCrystal" data-crystalvalue="hiddenVal" src="file:///Users/myles/Desktop/Week-4-Game/assets/images/try4.jpg">
+
+
+</body>
+</html>
