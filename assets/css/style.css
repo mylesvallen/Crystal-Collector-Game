@@ -1,23 +1,21 @@
-body{
-	background-image: url("file:///Users/myles/Desktop/Week-4-Game/assets/images/try5.jpg");
-	background-size: 100%;
-}
-
-
 h1{
+	font-family: 'Bungee Inline', cursive;
 	text-align: center;
-	color: #7FDBFF;
+	margin: auto;
+	margin-bottom: 10px;
 }
 
 
 #instructions{
 	color: orange; 
 	font-weight: 700; 
-	border-radius: 4px;
+	border-radius: 33%;
 	padding: 5px;
 	text-align: center;
-	background-color: black; 
-	opacity: 0.79;
+	background-image: url("../images/crystalbackground.jpg"); 
+	width: 75%;
+	margin: auto;
+
 }
 
 p{
@@ -45,9 +43,6 @@ h2{
 	border-radius: 8px;
 	margin-top: 25px; 
 	font-size: 40px;
-
-
-
 }
 
 .winLoss {
@@ -75,7 +70,6 @@ h2{
 
 #crystalDiv{
 	width: 100%;
-
 
 }
 
