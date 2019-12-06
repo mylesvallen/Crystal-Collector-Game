@@ -29,14 +29,13 @@ Game design note:
 
 
 
-![Play Here](https://mylesvallen.github.io/Crystal-Collector-Game/)
+[Play Here](https://mylesvallen.github.io/Crystal-Collector-Game/)
 
 <br />
 <br />
 <br />
 <br />
 
-![Play Here](https://mylesvallen.github.io/Crystal-Collector-Game/)
 
 
 ### Thank You for Visiting!!!
