@@ -1,4 +1,4 @@
-# Crystal Collector Game | Made in JS
+# Crystal Collector Game | JavaSscript 
 <br />
 <br />
 
