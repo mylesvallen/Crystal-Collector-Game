@@ -37,7 +37,7 @@ https://mylesvallen.github.io/Crystal-Collector-Game/
 <br />
 <br />
 
-![Image of front-page](https://mylesvallen.github.io/Crystal-Collector-Game/)
+![Play Here](https://mylesvallen.github.io/Crystal-Collector-Game/)
 
 
 ### Thank You for Visiting!!!
