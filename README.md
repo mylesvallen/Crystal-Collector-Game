@@ -29,7 +29,7 @@ Game design note:
 
 
 
-Play here @ 
+![Play Here]
 https://mylesvallen.github.io/Crystal-Collector-Game/
 
 <br />
