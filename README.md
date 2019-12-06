@@ -1,5 +1,6 @@
-# Crystal Collector Game made in JS
-
+# Crystal Collector Game | Made in JS
+<br />
+<br />
 
 This is a guessing game using numbers where the player will guess with numbers.
 - There will be four crystals displayed as buttons on the page. 
@@ -19,15 +20,15 @@ Game design note:
 
 
 
-
-
-
-![Image of front-page](https://github.com/mylesvallen/images/blob/master/crystal_collector_js.png)
-
-
-
-
-
-
 Play here @ 
 https://mylesvallen.github.io/Crystal-Collector-Game/
+
+<br />
+<br />
+<br />
+<br />
+
+![Image of front-page](https://mylesvallen.github.io/Crystal-Collector-Game/)
+
+
+### Thank You for Visiting!!!
