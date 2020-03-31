@@ -2,6 +2,8 @@
 <br />
 <br />
 
+![alt text](https://github.com/mylesvallen/Crystal-Collector-Game/blob/master/crystal-collector-game.png)
+
 This is a guessing game using arbitrary numbers inside crystal jewels 
 - There will be four crystals displayed as buttons on the page. 
 - The player will be shown a random number at the start of the game.
